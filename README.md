@@ -4,7 +4,7 @@
 
 I enjoy transforming raw data into actionable insights through analytics, dashboards, and data-driven applications.
 
-Currently pursuing **B.Tech – CSE (Big Data Analytics)** and building projects across **Data Analytics, Visualization, SQL, and Machine Learning**.
+I Had Completed my  **B.Tech – CSE (Big Data Analytics)** in 2026 passed Out and building projects across **Data Analytics, Visualization, SQL, and Machine Learning**.
 
 ---
 
